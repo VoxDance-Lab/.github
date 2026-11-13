@@ -33,7 +33,7 @@ A tokenizer-free autoregressive TTS framework that explores direct modeling of c
 
 - [GitHub Repository](https://github.com/VoxDance-Lab/VoxMel)
 - [Demo](https://voxdance.github.io/voxmel-demo/)
-- [Hugging Face — VoxMel-0.3B](https://huggingface.co/spaces/guanwenhao/VoxMel-0.3B)
+- [Hugging Face — VoxMel-0.3B](https://huggingface.co/VoxDance-Lab/VoxMel-0.3B)
 - [Hugging Face — VoxMel-0.6B](https://huggingface.co/VoxDance-Lab/VoxMel-0.6B)
 
 ---
