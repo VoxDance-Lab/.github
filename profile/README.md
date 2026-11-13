@@ -1,6 +1,5 @@
 # VoxDance Lab
 
-### Exploring the Future of Audio AI.
 
 VoxDance Lab is an independent research lab focused on advancing audio AI and generative modeling.
 
